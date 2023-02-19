@@ -76,5 +76,7 @@ switch(val){
 
 }
 
-let k=value(1)
-console.log(k) 
+value(1)
+
+console.log(value(1)) 
+console.log(value(2))
