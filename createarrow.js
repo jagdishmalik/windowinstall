@@ -59,3 +59,22 @@ result = Math.floor('20.01');
 console.log(result); // 20
 
 
+function value(val){
+
+switch(val){
+
+  case 1:
+    return "appple";
+   break;
+  case 2:
+    return "orange";
+   break;
+  case 3:
+    return "graphes";
+   break;
+}
+
+}
+
+let k=value(1)
+console.log(k) 
